@@ -1,8 +1,8 @@
 # python-hocr
 [![Build Status](https://travis-ci.org/concordusapps/python-hocr.png?branch=master)](https://travis-ci.org/concordusapps/python-hocr)
 [![Coverage Status](https://coveralls.io/repos/concordusapps/python-hocr/badge.png?branch=master)](https://coveralls.io/r/concordusapps/python-hocr?branch=master)
-[![PyPi Version](https://pypip.in/v/hocr/badge.png)](https://pypi.python.org/pypi/hocr)
-![PyPi Downloads](https://pypip.in/d/hocr/badge.png)
+[![PyPi Version](https://img.shields.io/pypi/v/hocr.svg)](https://pypi.python.org/pypi/hocr)
+![PyPi Downloads](https://img.shields.io/pypi/dm/hocr.svg)
 > HOCR manipulation and utility library; provides hocr2pdf binary.
 
 ## License
